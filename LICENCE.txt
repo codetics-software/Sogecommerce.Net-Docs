@@ -1,0 +1,9 @@
+Copyright (C) 2022 Codetics <contact@codetics.fr>
+
+L'intégralité du code et de la librairie est la propriété de la société Codetics.
+
+L'ensemble du projet (à l'exception des dépendances) ne peuvent être copiés et/ou distribué sans l'autorisation explicite du président de la société Codetics représenté par Kevin Vavelin
+
+Pour pouvoir profiter du logiciel, un abonnement à Sogecommerce est requis. Sogecommerce est un service de la banque Societe Generale.
+
+https://professionnels.societegenerale.fr/compte-banque-au-quotidien/encaissement/solution-de-paiement-en-ligne
