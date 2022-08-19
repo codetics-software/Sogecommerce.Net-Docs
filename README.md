@@ -1,14 +1,14 @@
 # Sogecommerce.Net
 
-La librairie Sogecommerce.Net est developpe par la societe Codetics. Pour pouvoir beneficier des services de Sogecommerce, il vous faudra imperativement une souscription au service aupres de la Societe Generale [https://professionnels.societegenerale.fr/compte-banque-au-quotidien/encaissement/solution-de-paiement-en-ligne](Sogecommerce). Rapprochez vous de votre conseiller pour en savoir plus sur cette offre.
+La librairie Sogecommerce.Net est développé par la societe Codetics. Pour pouvoir bénéficier des services de Sogecommerce, il vous faudra imperativement une souscription au service aupres de la Societe Generale [https://professionnels.societegenerale.fr/compte-banque-au-quotidien/encaissement/solution-de-paiement-en-ligne](Sogecommerce). Rapprochez vous de votre conseiller pour en savoir plus sur cette offre.
 
 # Comment ca fonctionne ?
 
-Implementez la solution en la rajoutant � votre projet ASP.Net Core ou .Net avec NuGet.
+Implementez la solution en la rajoutant à votre projet ASP.Net Core ou .Net avec NuGet.
 
-## Integrez la librairie � votre projet
+## Integrez la librairie a votre projet
 
-Il est tr�s simple d'int�grer la solution � votre projet. Il vous suffit pour cela d'utiliser l'extension des services ASP.Net Core dans votre fichier program.cs :
+Il est très simple d'integrer la solution à votre projet. Il vous suffit pour cela d'utiliser l'extension des services ASP.Net Core dans votre fichier program.cs :
 
 ```
 builder.Services.AddSogecommerce();
